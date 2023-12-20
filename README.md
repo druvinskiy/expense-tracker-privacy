@@ -1,6 +1,6 @@
 # Expense Tracker - Privacy Policy and Terms and Conditions
 ## Introduction
-By using “Expense Tracker”, you agree to our Terms of Use and our Privacy Policy. I invite you to fully read this page and make sure you understand its content prior to using “Job Application Tracker”.
+By using “Expense Tracker”, you agree to our Terms of Use and our Privacy Policy. I invite you to fully read this page and make sure you understand its content prior to using “Expense Tracker”.
 
 ## Expense Tracker: Terms of Use & Privacy Policy
 David Ruvinskiy operates the “Expense Tracker” mobile application (the “App”) (name on the App Store subject to change for search and discovery purposes).
